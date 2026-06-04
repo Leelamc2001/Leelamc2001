@@ -1,6 +1,15 @@
 # 💫 About Me:
-🎓 MCA Student | 📊 Aspiring Data Analyst | 💻 Learning Python, SQL, Excel, HTML & CSS | 🚀 Passionate About Technology and Problem Solving.
+🔭 I’m currently working on Data Analytics and Web Development projects
 
+👯 I’m looking to collaborate on Open Source and Beginner-Friendly Projects
+
+🤝 I’m looking for help with Python, SQL, and Data Analytics
+
+🌱 I’m currently learning MCA, Python, SQL, Excel, HTML, CSS, and Power BI
+
+💬 Ask me about Data Analytics, Excel, HTML, CSS, and Python Basics
+
+⚡ Fun fact: I enjoy learning new technologies and solving problems with data.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/leela-m-c-leela) 
 
