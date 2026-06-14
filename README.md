@@ -2,7 +2,7 @@
 🔭 I’m currently working on Data Analytics and Web Development projects<br><br>👯 I’m looking to collaborate on Open Source and Beginner-Friendly Projects<br><br>🤝 I’m looking for help with Python, SQL, and Data Analytics<br><br>🌱 I’m currently learning MCA, Python, SQL, Excel, HTML, CSS, and Power BI<br><br>💬 Ask me about Data Analytics, Excel, HTML, CSS, and Python Basics<br><br>⚡ Fun fact: I enjoy learning new technologies and solving problems with data.
 
 
-## 🌐 Socials:
+##🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/leela-m-c-leela) 
 
 # 💻 Tech Stack:
